@@ -7,5 +7,6 @@ int main()
 	cout << "\aI zolotyj lancyuh na nim: a" << endl;
 	cout << "hodnya, shonochi kit uchenyj" << endl;
 	cout << "Na lancyuhu kruzhl’aje tim\"" << endl;
+
 	return 0;
 }
